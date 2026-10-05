@@ -14,6 +14,7 @@ module.exports = {
         "Copernicus Data Space Ecosystem Federation": "https://openeofed.dataspace.copernicus.eu",
         "rasdaman": "https://openeo.rasdaman.com/rasdaman/openeo/",
         "EO4EU Platform": "https://umm-api.apps.eo4eu.eu/EO/",
+        "FAO": "https://data.fao.org/openeo/",
         // Potential other backends to add: RISE, IBM
     },
     unsuccessfulCrawls: {
